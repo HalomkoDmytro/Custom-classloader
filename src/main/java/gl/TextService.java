@@ -1,6 +1,5 @@
 package gl;
 
-
 public class TextService {
 
     public String staticText() {
